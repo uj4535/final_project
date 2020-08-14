@@ -1,0 +1,12 @@
+select DISTINCT color from animal_list
+-- update animal_list set color='흰색' where color like "%흰색%";
+-- update animal_list set color='흰색' where color like "%크림색%"
+-- update animal_list set color='검은색' where color like "%검정%" or color like "%검은%";
+-- update animal_list set color='흰색' where color like "%아이보리%" or "옅은 노랑색";
+-- update animal_list set color='갈색' where color like "%베이지%" or  color like "%노랑%" or color like "%황색%" or color like "%치즈%" or color like "%살구%"or color like "%옅은%" or color like "%살색%" or color like "%커피색%" or color like "%노란%" or color like "%간색%" or color like "%갈%";
+-- update animal_list set color='검은색' where color like "%회색%" or color like "%카키%" or color like "%ㄱ머정%" or color like "%남색%"; 
+-- update animal_list set color='갈색' where color like "%갈색%" or color like "%밤색%";
+-- update animal_list set color='혼합색' where color like "%겸흰%"
+-- update animal_list set color='갈색' where color like "%4%";
+-- DELETE from animal_list where color like "%미색%"
+-- DELETE from animal_list where color like "%빨강색%"

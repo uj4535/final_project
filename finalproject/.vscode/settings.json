@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": true,
+            "database": "final_project",
+            "driver": "MariaDB",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "newnew",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "192.168.0.150",
+            "username": "uj4535"
+        }
+    ],
+    "python.pythonPath": "/home/sundooedu/anaconda3/bin/python"
+}
